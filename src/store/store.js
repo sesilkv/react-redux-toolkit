@@ -17,5 +17,5 @@ export default store
 /*
 sekaligus mendapatkan 2 objek:
 counterSlice.reducer
-counterSlice.action
+counterSlice.actions
 */
