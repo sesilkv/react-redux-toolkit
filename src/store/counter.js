@@ -7,7 +7,7 @@ const counterSlice = createSlice({
     name: 'counter',
     //dibuat objek
     initialState: {
-        count: 0
+        count: 10
     },
     reducers: {
         //state dapat langsung dirubah seperti JS biasa
